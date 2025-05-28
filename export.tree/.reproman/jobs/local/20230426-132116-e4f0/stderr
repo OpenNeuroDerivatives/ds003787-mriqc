@@ -1,8 +1,0 @@
-Warning: Permanently added 'c209-007' (ECDSA) to the list of known hosts.
-WARNING (04/26/23 13:42:11): LAUNCHER_WORKDIR variable not set. Using current directory.
-using /tmp/launcher.5424824.hostlist.JNzom7a2 to get hosts
-starting job on c209-007
-starting job on c209-025
-slurmstepd: error: *** JOB 5424824 ON c209-007 CANCELLED AT 2023-04-26T15:07:26 ***
-Killed by signal 15.
-Terminated
